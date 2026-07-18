@@ -1,0 +1,16 @@
+body {
+    background-color: #111111;
+    color: #eeeeee;
+    font-family: "Silkscreen", monospace;
+}
+
+h1 {
+    color: #ffffff;
+}
+.container {
+    width: 700px;
+    height: 3500px;
+    margin:50px auto;
+    background-color: #881c1c;
+    padding: 20px;
+    text-align: center;
